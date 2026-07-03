@@ -1,0 +1,35 @@
+{
+  "slug": "slow-motion",
+  "type": "preset",
+  "title": "Slow Motion",
+  "resolution": "4K for 4x; 1080p for 8x",
+  "fps": "120 fps (4x) or 240 fps (8x)",
+  "aspect": "16:9 or supported 4:3 modes",
+  "color": "D-Log M supported where available",
+  "iso": "100–800 in strong light",
+  "wb": "Locked",
+  "shutter": "At least 1/240 for 120 fps; faster for crisp action",
+  "ev": "-0.3",
+  "stabilization": "EIS not supported in Slow Motion mode",
+  "fov": "Wide/Natural Wide",
+  "nd": "None",
+  "uses": [
+    "Jumps",
+    "Water splashes",
+    "Sports technique"
+  ],
+  "pros": [
+    "4K/120 detail",
+    "1080p/240 extreme slowdown"
+  ],
+  "cons": [
+    "Needs abundant light",
+    "No EIS in dedicated Slow Motion mode"
+  ],
+  "mistakes": [
+    "Using indoors without enough light"
+  ],
+  "tips": [
+    "Standard video at high fps can also be useful when you want normal-speed audio/timeline flexibility"
+  ]
+}

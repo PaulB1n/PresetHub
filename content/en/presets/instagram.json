@@ -1,0 +1,33 @@
+{
+  "slug": "instagram",
+  "type": "preset",
+  "title": "Instagram Reels",
+  "resolution": "4K vertical or 4K Custom",
+  "fps": "30 fps",
+  "aspect": "9:16 delivery",
+  "color": "Normal 10-bit",
+  "iso": "100–800",
+  "wb": "Locked",
+  "shutter": "Auto",
+  "stabilization": "RockSteady",
+  "fov": "Natural Wide",
+  "nd": "None",
+  "uses": [
+    "Reels",
+    "Stories",
+    "Product clips"
+  ],
+  "pros": [
+    "Native 9:16 available",
+    "Fast color workflow"
+  ],
+  "cons": [
+    "Platform compression is aggressive"
+  ],
+  "mistakes": [
+    "Cropping a tight 16:9 shot after capture"
+  ],
+  "tips": [
+    "Use 4K Custom when the same take also needs YouTube framing"
+  ]
+}

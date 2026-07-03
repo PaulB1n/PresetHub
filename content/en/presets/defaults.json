@@ -1,0 +1,35 @@
+{
+  "resolution": "4K",
+  "fps": "30 fps",
+  "aspect": "16:9",
+  "color": "Normal 10-bit",
+  "bitrate": "High",
+  "iso": "100–800",
+  "wb": "Auto; lock for matched shots",
+  "shutter": "Auto",
+  "ev": "-0.3",
+  "sharpness": "-1",
+  "nr": "-1",
+  "stabilization": "RockSteady 3.0",
+  "fov": "Natural Wide",
+  "nd": "None",
+  "uses": [
+    "General handheld video"
+  ],
+  "pros": [
+    "Reliable exposure",
+    "Minimal setup time"
+  ],
+  "cons": [
+    "Auto white balance can shift during a clip",
+    "Less grading latitude than D-Log M"
+  ],
+  "mistakes": [
+    "Using 60 fps in low light without needing slow motion",
+    "Forcing 1/60 shutter while running EIS in rough movement"
+  ],
+  "tips": [
+    "Save the setup as a custom mode",
+    "Check highlights with the histogram before recording"
+  ]
+}

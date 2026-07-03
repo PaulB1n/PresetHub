@@ -1,0 +1,33 @@
+{
+  "slug": "travel",
+  "type": "preset",
+  "title": "Подорожі",
+  "fps": "30 fps",
+  "aspect": "4K Custom",
+  "color": "Normal 10-bit or D-Log M",
+  "iso": "100–1600",
+  "wb": "Auto for rapid changes; lock per scene",
+  "shutter": "Auto",
+  "ev": "-0.3",
+  "stabilization": "HorizonBalancing",
+  "fov": "Natural Wide",
+  "nd": "None",
+  "uses": [
+    "One-camera trips",
+    "Mixed indoor/outdoor",
+    "Social reframing"
+  ],
+  "pros": [
+    "Fast and flexible",
+    "Square capture supports multiple outputs"
+  ],
+  "cons": [
+    "4K Custom requires reframing in post"
+  ],
+  "mistakes": [
+    "Changing every parameter instead of capturing the moment"
+  ],
+  "tips": [
+    "Save a second 60 fps custom mode for action inserts"
+  ]
+}

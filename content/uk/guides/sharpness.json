@@ -1,0 +1,29 @@
+{
+  "slug": "sharpness",
+  "type": "guide",
+  "title": "Sharpness / texture",
+  "summary": "In-camera sharpening changes edge contrast, not captured focus.",
+  "table": [
+    [
+      "Value",
+      "Result",
+      "Use"
+    ],
+    [
+      "0",
+      "DJI default rendering",
+      "Direct delivery"
+    ],
+    [
+      "-1",
+      "Milder edges",
+      "General graded workflow"
+    ],
+    [
+      "-2",
+      "Least processed look",
+      "Only when you will add sharpening in post"
+    ]
+  ],
+  "warning": "Do not copy -2 blindly. Several users prefer 0 because excessive negative texture can look soft after platform compression."
+}

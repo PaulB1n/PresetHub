@@ -1,0 +1,38 @@
+{
+  "slug": "accessories",
+  "type": "guide",
+  "title": "Accessories guide",
+  "summary": "Choose accessories by failure mode: secure mounting, clean audio, power, water pressure or close focus.",
+  "table": [
+    [
+      "Accessory",
+      "Useful for",
+      "Check"
+    ],
+    [
+      "Waterproof Case",
+      "Long dives / high water pressure to 60 m",
+      "Seal and lens cleanliness"
+    ],
+    [
+      "DJI Mic transmitter",
+      "Speech in wind or distance",
+      "Gain and backup recording"
+    ],
+    [
+      "Macro Lens",
+      "Close focus down to 11 cm",
+      "Focus peaking at ≤30 fps"
+    ],
+    [
+      "FOV Boost Lens",
+      "Immersive POV",
+      "Mode and filter compatibility"
+    ],
+    [
+      "Protective Frame / mount",
+      "Impact and mounting",
+      "Airflow and tether"
+    ]
+  ]
+}

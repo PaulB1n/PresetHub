@@ -1,0 +1,31 @@
+{
+  "slug": "hiking",
+  "type": "preset",
+  "title": "Hiking",
+  "fps": "30 fps",
+  "aspect": "4:3 or 4K Custom",
+  "color": "D-Log M 10-bit",
+  "iso": "100–800",
+  "wb": "Locked for sequences",
+  "shutter": "Auto or minimum 1/100 while walking",
+  "stabilization": "HorizonBalancing",
+  "fov": "Natural Wide",
+  "nd": "None",
+  "uses": [
+    "Trail POV",
+    "Landscapes",
+    "Summit video"
+  ],
+  "pros": [
+    "Level footage on uneven terrain"
+  ],
+  "cons": [
+    "Auto exposure can change under tree cover"
+  ],
+  "mistakes": [
+    "Leaving lens condensation unchecked"
+  ],
+  "tips": [
+    "Carry the camera where airflow reaches it; wipe the lens before every descent"
+  ]
+}

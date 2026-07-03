@@ -1,0 +1,31 @@
+{
+  "slug": "sunset",
+  "type": "preset",
+  "title": "Захід сонця",
+  "fps": "24/25 or 30 fps",
+  "color": "D-Log M 10-bit",
+  "iso": "100–800",
+  "wb": "5600–6500 K, locked",
+  "shutter": "Auto; 1/50 at 25 fps on tripod",
+  "ev": "-0.7 to -0.3",
+  "stabilization": "RockSteady or Off on tripod",
+  "nd": "Remove ND as light falls",
+  "uses": [
+    "Landscapes",
+    "Travel transitions",
+    "Silhouettes"
+  ],
+  "pros": [
+    "D-Log M protects highlight color"
+  ],
+  "cons": [
+    "Exposure changes quickly"
+  ],
+  "mistakes": [
+    "Leaving an ND32 fitted after sunset",
+    "Lifting deep shadows until noise becomes obvious"
+  ],
+  "tips": [
+    "Expose for the bright sky; let silhouettes stay dark"
+  ]
+}

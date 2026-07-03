@@ -1,0 +1,29 @@
+{
+  "slug": "cloudy",
+  "type": "preset",
+  "title": "Cloudy",
+  "fps": "30 fps",
+  "color": "D-Log M 10-bit",
+  "iso": "100–800",
+  "wb": "6000–6800 K, locked",
+  "shutter": "Auto or minimum 1/100 for walking",
+  "ev": "0 to -0.3",
+  "nd": "None; ND8 in bright overcast",
+  "uses": [
+    "Travel",
+    "Hiking",
+    "Interviews"
+  ],
+  "pros": [
+    "Soft light and controlled highlights"
+  ],
+  "cons": [
+    "WB can look cold if left at daylight values"
+  ],
+  "mistakes": [
+    "Underexposing D-Log M too heavily"
+  ],
+  "tips": [
+    "Set WB from a neutral subject rather than guessing by sky color"
+  ]
+}

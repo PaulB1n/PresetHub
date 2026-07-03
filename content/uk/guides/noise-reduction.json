@@ -1,0 +1,28 @@
+{
+  "slug": "noise-reduction",
+  "type": "guide",
+  "title": "Noise reduction",
+  "summary": "Trade fine texture for cleaner shadows. Test at your delivery size, not only at 400% zoom.",
+  "table": [
+    [
+      "Value",
+      "Result",
+      "Use"
+    ],
+    [
+      "0",
+      "Stronger finished processing",
+      "Direct delivery / SuperNight"
+    ],
+    [
+      "-1",
+      "Balanced detail",
+      "General graded work"
+    ],
+    [
+      "-2",
+      "More grain, more retained texture",
+      "External denoise workflow"
+    ]
+  ]
+}

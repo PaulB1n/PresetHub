@@ -1,0 +1,31 @@
+{
+  "slug": "rain",
+  "type": "preset",
+  "title": "Дощ",
+  "fps": "30 or 60 fps",
+  "color": "Normal 10-bit",
+  "iso": "100–1600",
+  "wb": "Auto or locked to ambient light",
+  "shutter": "Minimum 1/100 handheld",
+  "ev": "-0.3",
+  "stabilization": "RockSteady",
+  "fov": "Natural Wide",
+  "nd": "None",
+  "uses": [
+    "Weather POV",
+    "Urban scenes",
+    "Sports"
+  ],
+  "pros": [
+    "Camera is waterproof to 20 m with doors correctly sealed"
+  ],
+  "cons": [
+    "Drops on lens ruin contrast"
+  ],
+  "mistakes": [
+    "Assuming a loosely closed port door is sealed"
+  ],
+  "tips": [
+    "Confirm battery and USB-C doors are fully latched; use hydrophobic lens treatment compatible with the cover"
+  ]
+}

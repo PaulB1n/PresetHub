@@ -1,0 +1,36 @@
+{
+  "slug": "vlog",
+  "type": "preset",
+  "title": "Vlog",
+  "fps": "30 fps",
+  "aspect": "16:9",
+  "color": "Normal 10-bit for fast delivery; D-Log M for matched cameras",
+  "iso": "100–1600",
+  "wb": "Auto for changing locations; locked for one scene",
+  "shutter": "Auto with action-safe bias",
+  "ev": "-0.3",
+  "sharpness": "-1 to 0",
+  "nr": "-1 to 0",
+  "stabilization": "RockSteady 3.0",
+  "fov": "Standard/Dewarp",
+  "nd": "None",
+  "uses": [
+    "Talking head",
+    "Walk-and-talk",
+    "Daily vlog"
+  ],
+  "pros": [
+    "Straight lines and natural faces",
+    "Fast workflow"
+  ],
+  "cons": [
+    "Standard FOV is tighter at arm length"
+  ],
+  "mistakes": [
+    "RockSteady+ crop at arm length",
+    "Uploading proxy/preview files instead of originals"
+  ],
+  "tips": [
+    "Use Natural Wide if arm reach is limited; keep face beyond minimum focus distance"
+  ]
+}

@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta name="description" content="Expert DJI Osmo Action settings, presets and field-tested shooting guides.">
+      <title>Osmo Action 6 Settings — Technical Knowledge Base</title>
+      <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="main.css">
+   </head>
+   <body>
+      <svg class="svg-sprite" width="0" height="0" aria-hidden="true">
+         <defs>
+            <symbol id="i-search" viewBox="0 0 24 24">
+               <circle cx="11" cy="11" r="7"/>
+               <path d="m20 20-4-4"/>
+            </symbol>
+            <symbol id="i-sun" viewBox="0 0 24 24">
+               <circle cx="12" cy="12" r="4"/>
+               <path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/>
+            </symbol>
+            <symbol id="i-moon" viewBox="0 0 24 24">
+               <path d="M21 12.8A8.5 8.5 0 1 1 11.2 3 6.7 6.7 0 0 0 21 12.8Z"/>
+            </symbol>
+            <symbol id="i-camera" viewBox="0 0 24 24">
+               <path d="M14.5 4 16 7h3a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2h3l1.5-3Z"/>
+               <circle cx="12" cy="13" r="3"/>
+            </symbol>
+            <symbol id="i-home" viewBox="0 0 24 24">
+               <path d="m3 11 9-8 9 8v9H3Z"/>
+               <path d="M9 20v-6h6v6"/>
+            </symbol>
+            <symbol id="i-sliders" viewBox="0 0 24 24">
+               <path d="M4 6h16M4 12h16M4 18h16M8 4v4M16 10v4M10 16v4"/>
+            </symbol>
+            <symbol id="i-book" viewBox="0 0 24 24">
+               <path d="M4 4h6a3 3 0 0 1 3 3v13a3 3 0 0 0-3-3H4ZM20 4h-4a3 3 0 0 0-3 3v13a3 3 0 0 1 3-3h4Z"/>
+            </symbol>
+            <symbol id="i-grid" viewBox="0 0 24 24">
+               <rect x="3" y="3" width="7" height="7"/>
+               <rect x="14" y="3" width="7" height="7"/>
+               <rect x="3" y="14" width="7" height="7"/>
+               <rect x="14" y="14" width="7" height="7"/>
+            </symbol>
+            <symbol id="i-bolt" viewBox="0 0 24 24">
+               <path d="m13 2-9 12h8l-1 8 9-12h-8Z"/>
+            </symbol>
+            <symbol id="i-menu" viewBox="0 0 24 24">
+               <path d="M4 7h16M4 12h16M4 17h16"/>
+            </symbol>
+            <symbol id="i-arrow" viewBox="0 0 24 24">
+               <path d="M5 12h14M14 7l5 5-5 5"/>
+            </symbol>
+            <symbol id="i-play" viewBox="0 0 24 24">
+               <path d="m8 5 11 7-11 7Z"/>
+            </symbol>
+            <symbol id="i-mountain" viewBox="0 0 24 24">
+               <path d="m3 20 7-12 4 6 2-3 5 9Z"/>
+            </symbol>
+         </defs>
+      </svg>
+
+      <header class="topbar">
+         <a class="brand" href="#">
+            <b class="mark">
+               <img class="brand-logo" src="assets/favicon.svg" alt="" aria-hidden="true">
+            </b>
+            
+         </a>
+         <button class="icon-btn mobile-menu" id="menuBtn" type="button" aria-label="Open navigation" aria-controls="leftbar" aria-expanded="false">
+            <svg class="icon"><use href="#i-menu"/></svg>
+         </button>
+         <button class="header-search search-trigger" type="button">
+            <svg class="icon"><use href="#i-search"/></svg>
+            <span>Search documentation...</span><kbd>⌘ K</kbd>
+         </button>
+         <nav class="topnav"><a href="docs.html#presets">Presets</a><a href="docs.html#best-settings">Guides</a><a href="docs.html#resolution">Reference</a></nav> 
+         <button class="lang-btn active" data-lang="en">EN</button>
+      <button class="lang-btn" data-lang="uk">UA</button>
+         <button class="icon-btn" id="themeBtn" type="button" aria-label="Toggle color theme">
+            <svg class="icon"><use href="#i-sun"/></svg>
+         </button>
+      </header>
+
+      <div class="layout">
+         <aside class="leftbar" id="leftbar" aria-label="Primary navigation">
+            <nav class="side-nav">
+               <a class="active" href="#home"><svg class="icon"><use href="#i-home"/></svg>Home</a>
+               <div class="nav-label">Library</div>
+               <a href="docs.html#presets"><svg class="icon"><use href="#i-camera"/></svg>Shooting scenarios</a>
+               <a href="docs.html#best-settings"><svg class="icon"><use href="#i-sliders"/></svg>Camera settings</a>
+               <a href="docs.html#presets"><svg class="icon"><use href="#i-bolt"/></svg>Presets</a>
+               <a href="docs.html#nd-filters"><svg class="icon"><use href="#i-grid"/></svg>ND filters</a>
+               <a href="docs.html#accessories"><svg class="icon"><use href="#i-camera"/></svg>Accessories</a>
+               <div class="nav-label">Resources</div>
+               <a href="docs.html#resolution"><svg class="icon"><use href="#i-grid"/></svg>Comparisons</a>
+               <a href="docs.html#getting-started"><svg class="icon"><use href="#i-book"/></svg>Guides</a>
+            </nav>
+            <div class="device-card"><strong><i class="dot"></i>Osmo Action 6</strong><span>Dedicated knowledge base</span></div>
+         </aside>
+
+         <button class="nav-backdrop" id="navBackdrop" type="button" aria-label="Close navigation" tabindex="-1"></button>
+
+         <main id="home">
+            <div class="content">
+               <div class="breadcrumbs">Docs <b>/</b> <span>Overview</span></div>
+               <div id="homeContent"></div>
+            </div>
+         </main>
+
+         <aside class="rightbar">
+            <h4>On this page</h4>
+            <nav class="toc" id="asideToc"></nav>
+            <h4>Quick presets</h4>
+            <div class="quick" id="quickPresets"></div>
+            <h4>Related</h4>
+            <div class="related" id="relatedLinks"></div>
+         </aside>
+      </div>
+
+      <div class="palette" id="palette" role="dialog" aria-modal="true" aria-label="Search">
+         <div class="palette-box">
+            <div class="palette-input">
+               <svg class="icon"><use href="#i-search"/></svg>
+               <input id="searchInput" placeholder="Search PresetHub..." autocomplete="off"><kbd>ESC</kbd>
+            </div>
+            <div class="results" id="results"></div>
+            <div class="palette-foot"><span>↑↓ Navigate</span><span>↵ Open</span><span>esc Close</span></div>
+         </div>
+      </div>
+
+      <script src="assets/js/main.js"></script>
+   </body>
+</html>

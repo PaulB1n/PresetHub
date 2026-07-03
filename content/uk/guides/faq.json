@@ -1,0 +1,32 @@
+{
+  "slug": "faq",
+  "type": "faq",
+  "title": "Поширені запитання",
+  "summary": "Короткі відповіді на типові питання щодо налаштування Action 6.",
+  "faq": [
+    [
+      "Is 8K always better?",
+      "No. Use it for crop or oversampled detail. 4K is easier to edit and supports a broader workflow."
+    ],
+    [
+      "Should I always use D-Log M?",
+      "No. Use Normal for direct delivery; D-Log M when you will grade."
+    ],
+    [
+      "Do I need ND filters?",
+      "Only for a deliberately fixed slow shutter. They can hurt rough-action EIS by forcing motion blur or higher ISO."
+    ],
+    [
+      "Which stabilization is best?",
+      "RockSteady for general use, Plus for severe shake, HorizonBalancing for moderate roll, HorizonSteady for full horizon lock."
+    ],
+    [
+      "Can I dive without a case?",
+      "DJI rates the camera to 20 m with doors and lens cover secured; it recommends the case for long sessions or high water-impact pressure."
+    ],
+    [
+      "Why is footage blurry at night?",
+      "The camera must trade shutter, ISO and processing. Add light, lower fps, move smoothly or use SuperNight."
+    ]
+  ]
+}

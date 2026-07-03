@@ -1,0 +1,33 @@
+{
+  "slug": "shutter",
+  "type": "guide",
+  "title": "Shutter speed guide",
+  "summary": "Action 6 users commonly choose between cinematic blur and stabilization-friendly sharp frames.",
+  "table": [
+    [
+      "Approach",
+      "30 fps",
+      "60 fps",
+      "Best for"
+    ],
+    [
+      "180-degree",
+      "1/60",
+      "1/120",
+      "Tripod, gimbal, smooth controlled movement"
+    ],
+    [
+      "Action-safe",
+      "~1/100–1/200",
+      "~1/200–1/500",
+      "Running, cycling, vehicles, rough EIS"
+    ],
+    [
+      "Auto",
+      "Camera controlled",
+      "Camera controlled",
+      "Changing light, travel, no ND"
+    ]
+  ],
+  "warning": "A slow shutter plus heavy vibration can create ghosting or jitter that stabilization cannot repair."
+}

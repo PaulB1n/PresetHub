@@ -1,0 +1,312 @@
+[
+  {
+    "title": "Start here",
+    "items": [
+      {
+        "slug": "best-settings",
+        "label": "Best settings",
+        "type": "guide"
+      },
+      {
+        "slug": "presets",
+        "label": "Preset library",
+        "type": "guide"
+      },
+      {
+        "slug": "getting-started",
+        "label": "Getting started",
+        "type": "guide"
+      },
+      {
+        "slug": "exposure",
+        "label": "Exposure workflow",
+        "type": "guide"
+      }
+    ]
+  },
+  {
+    "title": "Image settings",
+    "items": [
+      {
+        "slug": "resolution",
+        "label": "Resolution guide",
+        "type": "guide"
+      },
+      {
+        "slug": "fps",
+        "label": "Frame rate guide",
+        "type": "guide"
+      },
+      {
+        "slug": "iso",
+        "label": "ISO guide",
+        "type": "guide"
+      },
+      {
+        "slug": "shutter",
+        "label": "Shutter speed",
+        "type": "guide"
+      },
+      {
+        "slug": "white-balance",
+        "label": "White balance",
+        "type": "guide"
+      },
+      {
+        "slug": "d-log-m",
+        "label": "D-Log M",
+        "type": "guide"
+      },
+      {
+        "slug": "normal-color",
+        "label": "Normal color",
+        "type": "guide"
+      },
+      {
+        "slug": "bitrate",
+        "label": "Bitrate",
+        "type": "guide"
+      },
+      {
+        "slug": "sharpness",
+        "label": "Sharpness / texture",
+        "type": "guide"
+      },
+      {
+        "slug": "noise-reduction",
+        "label": "Noise reduction",
+        "type": "guide"
+      },
+      {
+        "slug": "dewarp",
+        "label": "Dewarp and FOV",
+        "type": "guide"
+      }
+    ]
+  },
+  {
+    "title": "Stabilization",
+    "items": [
+      {
+        "slug": "rocksteady",
+        "label": "RockSteady 3.0",
+        "type": "guide"
+      },
+      {
+        "slug": "rocksteady-plus",
+        "label": "RockSteady 3.0+",
+        "type": "guide"
+      },
+      {
+        "slug": "horizon-balancing",
+        "label": "HorizonBalancing",
+        "type": "guide"
+      },
+      {
+        "slug": "horizon-steady",
+        "label": "HorizonSteady",
+        "type": "guide"
+      },
+      {
+        "slug": "field-of-view",
+        "label": "Field of view",
+        "type": "guide"
+      }
+    ]
+  },
+  {
+    "title": "Audio and media",
+    "items": [
+      {
+        "slug": "audio",
+        "label": "Audio settings",
+        "type": "guide"
+      },
+      {
+        "slug": "wind-noise",
+        "label": "Wind noise reduction",
+        "type": "guide"
+      },
+      {
+        "slug": "nd-filters",
+        "label": "ND filter guide",
+        "type": "guide"
+      },
+      {
+        "slug": "sd-cards",
+        "label": "microSD cards",
+        "type": "guide"
+      },
+      {
+        "slug": "battery",
+        "label": "Battery guide",
+        "type": "guide"
+      }
+    ]
+  },
+  {
+    "title": "Camera and support",
+    "items": [
+      {
+        "slug": "firmware",
+        "label": "Firmware features",
+        "type": "guide"
+      },
+      {
+        "slug": "dji-mimo",
+        "label": "DJI Mimo",
+        "type": "guide"
+      },
+      {
+        "slug": "accessories",
+        "label": "Accessories",
+        "type": "guide"
+      },
+      {
+        "slug": "troubleshooting",
+        "label": "Troubleshooting",
+        "type": "guide"
+      },
+      {
+        "slug": "faq",
+        "label": "FAQ",
+        "type": "guide"
+      },
+      {
+        "slug": "sources",
+        "label": "Sources and methodology",
+        "type": "guide"
+      }
+    ]
+  },
+  {
+    "title": "Shooting presets",
+    "items": [
+      {
+        "slug": "day",
+        "label": "Day",
+        "type": "preset"
+      },
+      {
+        "slug": "cloudy",
+        "label": "Cloudy",
+        "type": "preset"
+      },
+      {
+        "slug": "sunset",
+        "label": "Sunset",
+        "type": "preset"
+      },
+      {
+        "slug": "golden-hour",
+        "label": "Golden hour",
+        "type": "preset"
+      },
+      {
+        "slug": "night",
+        "label": "Night",
+        "type": "preset"
+      },
+      {
+        "slug": "indoor",
+        "label": "Indoor",
+        "type": "preset"
+      },
+      {
+        "slug": "vlog",
+        "label": "Vlog",
+        "type": "preset"
+      },
+      {
+        "slug": "walking",
+        "label": "Walking",
+        "type": "preset"
+      },
+      {
+        "slug": "running",
+        "label": "Running",
+        "type": "preset"
+      },
+      {
+        "slug": "cycling",
+        "label": "Cycling",
+        "type": "preset"
+      },
+      {
+        "slug": "motorcycle",
+        "label": "Motorcycle",
+        "type": "preset"
+      },
+      {
+        "slug": "car",
+        "label": "Car",
+        "type": "preset"
+      },
+      {
+        "slug": "fpv",
+        "label": "FPV drone",
+        "type": "preset"
+      },
+      {
+        "slug": "travel",
+        "label": "Travel",
+        "type": "preset"
+      },
+      {
+        "slug": "hiking",
+        "label": "Hiking",
+        "type": "preset"
+      },
+      {
+        "slug": "snow",
+        "label": "Snow",
+        "type": "preset"
+      },
+      {
+        "slug": "beach",
+        "label": "Beach",
+        "type": "preset"
+      },
+      {
+        "slug": "rain",
+        "label": "Rain",
+        "type": "preset"
+      },
+      {
+        "slug": "underwater",
+        "label": "Underwater",
+        "type": "preset"
+      },
+      {
+        "slug": "timelapse",
+        "label": "TimeLapse",
+        "type": "preset"
+      },
+      {
+        "slug": "hyperlapse",
+        "label": "HyperLapse",
+        "type": "preset"
+      },
+      {
+        "slug": "slow-motion",
+        "label": "Slow motion",
+        "type": "preset"
+      },
+      {
+        "slug": "youtube",
+        "label": "YouTube",
+        "type": "preset"
+      },
+      {
+        "slug": "instagram",
+        "label": "Instagram",
+        "type": "preset"
+      },
+      {
+        "slug": "tiktok",
+        "label": "TikTok",
+        "type": "preset"
+      }
+    ]
+  }
+]

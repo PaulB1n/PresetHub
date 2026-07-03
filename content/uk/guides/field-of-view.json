@@ -1,0 +1,28 @@
+{
+  "slug": "field-of-view",
+  "type": "guide",
+  "title": "Field of view",
+  "summary": "FOV controls composition, distortion and the amount of crop available to stabilization.",
+  "table": [
+    [
+      "FOV",
+      "Choose for",
+      "Avoid when"
+    ],
+    [
+      "Standard",
+      "People, buildings, interiors",
+      "Maximum POV width needed"
+    ],
+    [
+      "Natural Wide",
+      "General travel and action",
+      "Perfectly straight edges required"
+    ],
+    [
+      "Wide",
+      "FPV and immersive POV",
+      "Faces close to frame edges"
+    ]
+  ]
+}

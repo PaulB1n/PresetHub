@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Technical settings, presets, and field guides for DJI Osmo Action 6.">
+  <title>Osmo Action 6 Knowledge Base</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="docs.css">
+</head>
+<body>
+  <header class="docs-header">
+    <a class="docs-brand" href="PresetHub.html"><span class="brand-mark"><img class="docs-logo" src="assets/favicon.svg" alt="" aria-hidden="true"></span><span></span><b>Action 6</b></a>
+    <button class="docs-search" id="searchButton" type="button" aria-label="Search documentation"><span>⌕</span><span>Search Action 6 docs</span><kbd>Ctrl K</kbd></button>
+    <a class="header-link" href="#best-settings">Best settings</a>
+    <a class="header-link" href="#presets">Presets</a>
+    
+    <button class="header-button mobile-nav-button" id="navButton" type="button" aria-expanded="false" aria-controls="docsSidebar">☰</button>
+     <button class="lang-btn active" data-lang="en">EN</button>
+      <button class="lang-btn" data-lang="uk">UA</button>
+    <button class="header-button" id="themeButton" type="button" aria-label="Toggle theme">☼</button>
+  </header>
+
+  <div class="docs-layout">
+    <aside class="docs-sidebar" id="docsSidebar">
+      <div class="sidebar-scroll">
+        <a class="back-link" href="PresetHub.html">← Overview</a>
+        <nav id="docsNavigation" aria-label="Documentation"></nav>
+      </div>
+    </aside>
+    <button class="sidebar-scrim" id="sidebarScrim" type="button" aria-label="Close navigation"></button>
+
+    <main class="article-shell">
+      <div class="article" id="article" aria-live="polite"></div>
+      <footer class="docs-footer">
+        <span>Independent technical reference for DJI Osmo Action 6.</span>
+        <a href="#sources">Sources and methodology</a>
+      </footer>
+    </main>
+
+    <aside class="article-aside">
+      <div class="aside-block"><span class="aside-label">On this page</span><nav class="page-toc" id="pageToc"></nav></div>
+      <div class="aside-block"><span class="aside-label">Camera baseline</span><dl class="baseline"><div><dt>Sensor</dt><dd>1/1.1-inch CMOS</dd></div><div><dt>Max video</dt><dd>8K/30</dd></div><div><dt>Max bitrate</dt><dd>120 Mbps</dd></div><div><dt>Storage</dt><dd>50 GB usable</dd></div></dl></div>
+      <div class="verified-note"><span>✓</span><p><b>Source policy</b>Specifications come from DJI. Field settings are labeled as consensus or conditional.</p></div>
+    </aside>
+  </div>
+
+  <div class="search-modal" id="searchModal" role="dialog" aria-modal="true" aria-label="Search documentation">
+    <div class="search-panel"><label><span>⌕</span><input id="searchInput" type="search" placeholder="Search ISO, FPV, D-Log M..." autocomplete="off"><kbd>Esc</kbd></label><div class="search-results" id="searchResults"></div><div class="search-help">↑↓ navigate · Enter open · Esc close</div></div>
+  </div>
+
+  <script src="docs.js"></script>
+</body>
+</html>

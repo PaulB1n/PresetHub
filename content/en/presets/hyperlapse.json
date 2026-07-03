@@ -1,0 +1,31 @@
+{
+  "slug": "hyperlapse",
+  "type": "preset",
+  "title": "HyperLapse",
+  "resolution": "4K",
+  "fps": "25/30 fps output",
+  "color": "D-Log M supported",
+  "iso": "100–800",
+  "wb": "Locked",
+  "shutter": "Auto",
+  "stabilization": "Mode-managed",
+  "fov": "Natural Wide",
+  "nd": "Usually none",
+  "uses": [
+    "Walking routes",
+    "Driving sequences",
+    "Travel transitions"
+  ],
+  "pros": [
+    "2x to 30x speed options"
+  ],
+  "cons": [
+    "Rapid movement magnifies path errors"
+  ],
+  "mistakes": [
+    "Irregular walking pace"
+  ],
+  "tips": [
+    "Use 5x for walking as a starting point and keep a fixed visual target"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "bitrate",
+  "type": "guide",
+  "title": "Bitrate",
+  "summary": "Action 6 records MP4 HEVC at up to 120 Mbps. High bitrate preserves more detail in motion and texture.",
+  "table": [
+    [
+      "Setting",
+      "Use",
+      "Cost"
+    ],
+    [
+      "High",
+      "Water, foliage, snow, gravel, fast POV",
+      "Larger files and more media throughput"
+    ],
+    [
+      "Standard",
+      "Long static recordings, storage priority",
+      "More compression artifacts in complex motion"
+    ]
+  ]
+}

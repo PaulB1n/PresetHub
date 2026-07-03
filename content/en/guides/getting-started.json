@@ -1,0 +1,17 @@
+{
+  "slug": "getting-started",
+  "type": "guide",
+  "title": "Getting started checklist",
+  "summary": "Configure reliability first; image tuning comes after a short real-world test.",
+  "check": [
+    "Update camera and DJI Mimo before important work",
+    "Format the microSD card in-camera after backing it up",
+    "Confirm battery and USB-C doors are fully latched",
+    "Set anti-flicker for your region",
+    "Create separate Day, Low Light and Action custom modes",
+    "Record a 30-second test and inspect the original file at 100%"
+  ],
+  "tips": [
+    "The camera has 64 GB internal storage, with 50 GB available. Keep it free as an emergency fallback."
+  ]
+}

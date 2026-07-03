@@ -1,0 +1,42 @@
+{
+  "slug": "exposure",
+  "type": "guide",
+  "title": "Exposure workflow",
+  "summary": "Control highlights, motion blur and EIS reliability in that order.",
+  "table": [
+    [
+      "Situation",
+      "Shutter strategy",
+      "ISO ceiling",
+      "EV"
+    ],
+    [
+      "Fast action / EIS",
+      "Auto or minimum ~1/200",
+      "800–1600",
+      "-0.3"
+    ],
+    [
+      "Walking",
+      "Auto or minimum ~1/100",
+      "800–1600",
+      "-0.3"
+    ],
+    [
+      "Tripod cinematic",
+      "1/(2×fps)",
+      "400–1600",
+      "Meter manually"
+    ],
+    [
+      "Night city",
+      "1/50–1/100 or SuperNight",
+      "1600 starting point",
+      "0 to -0.7"
+    ]
+  ],
+  "tips": [
+    "Negative EV is not a quality setting. Use it only when it protects highlights you care about."
+  ],
+  "warning": "The 180-degree shutter rule creates motion blur, but that blur can reduce electronic stabilization quality during rough motion."
+}

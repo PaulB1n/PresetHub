@@ -1,0 +1,33 @@
+{
+  "slug": "cycling",
+  "type": "preset",
+  "title": "Велосипед",
+  "fps": "60 fps",
+  "color": "D-Log M 10-bit",
+  "iso": "100–1600",
+  "wb": "Locked",
+  "shutter": "1/200 action-safe; 1/120 cinematic only on smooth roads",
+  "ev": "-0.3",
+  "stabilization": "RockSteady 3.0",
+  "fov": "Wide or Natural Wide",
+  "nd": "None for rough routes; ND8–16 for controlled smooth riding",
+  "uses": [
+    "Road cycling",
+    "MTB",
+    "Handlebar POV"
+  ],
+  "pros": [
+    "Clear terrain detail",
+    "Good stabilization"
+  ],
+  "cons": [
+    "Fast shutter has crisp action look"
+  ],
+  "mistakes": [
+    "Loose handlebar clamp",
+    "ND plus slow shutter on rough trails"
+  ],
+  "tips": [
+    "Two schools exist: 1/120 for blur on smooth roads, ~1/200 for reliable EIS on vibration."
+  ]
+}

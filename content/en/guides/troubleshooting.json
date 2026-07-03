@@ -1,0 +1,43 @@
+{
+  "slug": "troubleshooting",
+  "type": "guide",
+  "title": "Troubleshooting",
+  "summary": "Diagnose the capture chain before changing every image setting.",
+  "table": [
+    [
+      "Symptom",
+      "Check first",
+      "Likely action"
+    ],
+    [
+      "Soft video",
+      "Original file vs proxy; lens; shutter",
+      "Clean lens, inspect original, increase shutter"
+    ],
+    [
+      "Jitter / ghosting",
+      "Shutter and vibration",
+      "Remove ND, use faster shutter, stiffen mount"
+    ],
+    [
+      "Noisy shadows",
+      "ISO and exposure",
+      "Add light, lower fps, cap ISO carefully"
+    ],
+    [
+      "Color shifts",
+      "Auto WB",
+      "Lock WB per scene"
+    ],
+    [
+      "Recording stops",
+      "Card rating / heat / free space",
+      "Use DJI-listed V30 card, improve airflow"
+    ],
+    [
+      "Bad wind audio",
+      "Mic exposure",
+      "External protected mic / backup track"
+    ]
+  ]
+}

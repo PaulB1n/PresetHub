@@ -1,0 +1,28 @@
+{
+  "slug": "dewarp",
+  "type": "guide",
+  "title": "Dewarp modes",
+  "summary": "Standard corrects geometric distortion; Natural Wide keeps more width while correcting prominent verticals.",
+  "table": [
+    [
+      "FOV",
+      "Best for",
+      "Trade-off"
+    ],
+    [
+      "Standard (Dewarp)",
+      "Faces, architecture, car interiors",
+      "Narrower view"
+    ],
+    [
+      "Natural Wide",
+      "Travel, walking, landscapes",
+      "Some edge stretch remains"
+    ],
+    [
+      "Wide",
+      "POV, FPV, action",
+      "Strongest edge distortion"
+    ]
+  ]
+}

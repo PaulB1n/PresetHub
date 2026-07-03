@@ -1,0 +1,38 @@
+{
+  "slug": "white-balance",
+  "type": "guide",
+  "title": "White balance guide",
+  "summary": "Lock white balance for consistent edits; use Auto when moving rapidly between different light sources.",
+  "table": [
+    [
+      "Light",
+      "Starting point",
+      "Verify"
+    ],
+    [
+      "Tungsten",
+      "2800–3400 K",
+      "Skin should not look orange"
+    ],
+    [
+      "Mixed indoor LED",
+      "3800–4800 K",
+      "Check flicker and green/magenta tint"
+    ],
+    [
+      "Daylight",
+      "5200–5600 K",
+      "Neutral white object"
+    ],
+    [
+      "Cloud / shade",
+      "6000–7500 K",
+      "Avoid over-warming skin"
+    ],
+    [
+      "Underwater",
+      "Condition dependent",
+      "Depth, water color and lights change the answer"
+    ]
+  ]
+}

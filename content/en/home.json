@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "title": "Osmo Action 6 Settings — Technical Knowledge Base",
+    "description": "Expert DJI Osmo Action settings, presets and field-tested shooting guides."
+  },
+  "hero": {
+    "eyebrow": "Osmo Action 6 technical knowledge base",
+    "title": "Settings that hold up in the field.",
+    "summary": "Mode limits from DJI documentation, practical presets, and clearly labeled community consensus for Action 6.",
+    "cta": {
+      "label": "Open the complete Action 6 documentation",
+      "href": "docs.html#best-settings"
+    },
+    "trusted": "30 guides · 25 presets · source-linked"
+  },
+  "scenarios": {
+    "title": "Popular scenarios",
+    "summary": "Start with what you're shooting.",
+    "link": {
+      "label": "View all 11 →",
+      "href": "docs.html#presets"
+    },
+    "items": [
+      {
+        "title": "Daylight",
+        "count": "5 presets",
+        "icon": "i-sun",
+        "href": "docs.html#day"
+      },
+      {
+        "title": "Low light",
+        "count": "4 presets",
+        "icon": "i-moon",
+        "href": "docs.html#night"
+      },
+      {
+        "title": "FPV",
+        "count": "6 presets",
+        "icon": "i-bolt",
+        "href": "docs.html#fpv"
+      },
+      {
+        "title": "Travel",
+        "count": "8 presets",
+        "icon": "i-camera",
+        "href": "docs.html#travel"
+      },
+      {
+        "title": "Car",
+        "count": "5 presets",
+        "icon": "i-play",
+        "href": "docs.html#car"
+      },
+      {
+        "title": "Motorcycle",
+        "count": "4 presets",
+        "icon": "i-bolt",
+        "href": "docs.html#motorcycle"
+      },
+      {
+        "title": "Snow",
+        "count": "3 presets",
+        "icon": "i-mountain",
+        "href": "docs.html#snow"
+      },
+      {
+        "title": "Beach",
+        "count": "4 presets",
+        "icon": "i-sun",
+        "href": "docs.html#beach"
+      }
+    ]
+  },
+  "featuredPresets": {
+    "title": "Popular presets",
+    "summary": "Proven setups, ready to dial in.",
+    "link": {
+      "label": "Explore all →",
+      "href": "docs.html#presets"
+    },
+    "items": [
+      {
+        "slug": "fpv",
+        "featured": true,
+        "badge": "Editor's choice",
+        "badgeTone": "green",
+        "rating": "★★★★★",
+        "score": "9.8",
+        "title": "FPV Drone — Cinematic",
+        "summary": "Natural motion blur, wide dynamic range, and reliable stabilization.",
+        "specs": [
+          [
+            "Resolution",
+            "4K 4:3"
+          ],
+          [
+            "Frame rate",
+            "60 FPS"
+          ],
+          [
+            "Color",
+            "D-Log M"
+          ],
+          [
+            "ISO",
+            "100–400"
+          ],
+          [
+            "Stabilization",
+            "RockSteady"
+          ],
+          [
+            "Filter",
+            "ND32"
+          ]
+        ]
+      },
+      {
+        "slug": "travel",
+        "badge": "Travel",
+        "rating": "★★★★★",
+        "score": "9.6",
+        "title": "Everyday Travel",
+        "summary": "Flexible, clean footage in changing light.",
+        "specs": [
+          [
+            "Quality",
+            "4K / 30"
+          ],
+          [
+            "Color",
+            "Normal"
+          ],
+          [
+            "ISO",
+            "100–800"
+          ]
+        ]
+      },
+      {
+        "slug": "night",
+        "badge": "Low light",
+        "rating": "★★★★☆",
+        "score": "9.2",
+        "title": "Night City",
+        "summary": "Controlled highlights with minimal noise.",
+        "specs": [
+          [
+            "Quality",
+            "4K / 24"
+          ],
+          [
+            "Color",
+            "D-Log M"
+          ],
+          [
+            "ISO",
+            "100–1600"
+          ]
+        ]
+      }
+    ]
+  },
+  "guides": {
+    "title": "Latest guides",
+    "summary": "Understand the craft behind the settings.",
+    "link": {
+      "label": "Browse guides →",
+      "href": "docs.html#getting-started"
+    },
+    "filters": [
+      "all",
+      "basics",
+      "advanced"
+    ],
+    "items": [
+      {
+        "title": "The 180° shutter rule, made practical",
+        "summary": "Get natural motion without fighting your camera.",
+        "meta": "Basics · 8 min",
+        "type": "basics",
+        "icon": "i-sliders",
+        "href": "docs.html#shutter"
+      },
+      {
+        "title": "Choosing the right ND filter",
+        "summary": "A field guide for every lighting condition.",
+        "meta": "Advanced · 12 min",
+        "type": "advanced",
+        "icon": "i-sun",
+        "href": "docs.html#nd-filters"
+      },
+      {
+        "title": "D-Log M workflow from start to finish",
+        "summary": "Expose, transform, and grade with confidence.",
+        "meta": "Advanced · 10 min",
+        "type": "advanced",
+        "icon": "i-camera",
+        "href": "docs.html#d-log-m"
+      }
+    ]
+  },
+  "saveCard": {
+    "title": "Keep your setup in your pocket.",
+    "summary": "Save presets locally and pull them up when the light changes.",
+    "button": "Save starter pack",
+    "savedButton": "Saved ✓"
+  },
+  "aside": {
+    "toc": [
+      [
+        "Overview",
+        "#home"
+      ],
+      [
+        "Popular scenarios",
+        "#scenarios"
+      ],
+      [
+        "Popular presets",
+        "#presets"
+      ],
+      [
+        "Latest guides",
+        "#guides"
+      ]
+    ],
+    "quickPresets": [
+      {
+        "title": "FPV cinematic",
+        "summary": "4K · 60 · D-Log M",
+        "href": "docs.html#fpv"
+      },
+      {
+        "title": "Everyday travel",
+        "summary": "4K · 30 · Normal",
+        "href": "docs.html#travel"
+      },
+      {
+        "title": "Night city",
+        "summary": "4K · 24 · D-Log M",
+        "href": "docs.html#night"
+      }
+    ],
+    "related": [
+      {
+        "title": "Action 4 vs Action 5 Pro",
+        "summary": "6 min read",
+        "href": "#"
+      },
+      {
+        "title": "Best microSD cards in 2026",
+        "summary": "4 min read",
+        "href": "docs.html#sd-cards"
+      },
+      {
+        "title": "Firmware update checklist",
+        "summary": "3 min read",
+        "href": "docs.html#firmware"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 Osmo Settings. Independent of DJI.",
+    "links": [
+      {
+        "label": "GitHub",
+        "href": "#"
+      },
+      {
+        "label": "Privacy",
+        "href": "#"
+      },
+      {
+        "label": "Contact",
+        "href": "mailto:hello@osmosettings.com"
+      }
+    ]
+  },
+  "chrome": {
+    "topnav": {
+      "presets": "Presets",
+      "guides": "Guides",
+      "reference": "Reference"
+    },
+    "side": {
+      "home": "Home",
+      "library": "Library",
+      "shootingScenarios": "Shooting scenarios",
+      "cameraSettings": "Camera settings",
+      "presets": "Presets",
+      "ndFilters": "ND filters",
+      "accessories": "Accessories",
+      "resources": "Resources",
+      "comparisons": "Comparisons",
+      "guides": "Guides"
+    },
+    "device": {
+      "title": "Osmo Action 6",
+      "summary": "Dedicated knowledge base"
+    },
+    "breadcrumbs": [
+      "Docs",
+      "Overview"
+    ],
+    "searchPlaceholder": "Search PresetHub...",
+    "searchEmpty": "No settings found.",
+    "searchTypes": {
+      "preset": "Preset",
+      "guide": "Guide",
+      "scenario": "Scenario"
+    },
+    "openPreset": "Open preset"
+  }
+}

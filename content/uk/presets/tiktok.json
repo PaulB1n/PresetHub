@@ -1,0 +1,33 @@
+{
+  "slug": "tiktok",
+  "type": "preset",
+  "title": "TikTok",
+  "resolution": "4K vertical or 4K Custom",
+  "fps": "30 or 60 fps",
+  "aspect": "9:16 delivery",
+  "color": "Normal 10-bit",
+  "iso": "100–1600",
+  "wb": "Auto for spontaneous clips",
+  "shutter": "Auto",
+  "stabilization": "RockSteady",
+  "fov": "Natural Wide",
+  "nd": "None",
+  "uses": [
+    "POV",
+    "Short tutorials",
+    "Travel clips"
+  ],
+  "pros": [
+    "Native vertical capture",
+    "Quick turnaround"
+  ],
+  "cons": [
+    "Auto settings may vary between cuts"
+  ],
+  "mistakes": [
+    "Putting important detail under interface overlays"
+  ],
+  "tips": [
+    "Keep faces and text inside the central safe area"
+  ]
+}

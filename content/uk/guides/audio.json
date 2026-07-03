@@ -1,0 +1,13 @@
+{
+  "slug": "audio",
+  "type": "guide",
+  "title": "Audio settings",
+  "summary": "Internal recording is 48 kHz, 16-bit AAC through three built-in microphones.",
+  "check": [
+    "Set gain with real voice/engine levels",
+    "Monitor a test clip with headphones after transfer",
+    "Use external DJI Mic for critical speech",
+    "Record transmitter backup when available",
+    "Keep mic ports clear of water and debris"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "snow",
+  "type": "preset",
+  "title": "Сніг",
+  "fps": "30 or 60 fps",
+  "color": "D-Log M 10-bit",
+  "iso": "100–400",
+  "wb": "6000–7000 K depending sky, locked",
+  "shutter": "Auto action-safe",
+  "ev": "+0.3 to +1.0 after checking highlights",
+  "stabilization": "RockSteady/HorizonSteady",
+  "fov": "Natural Wide",
+  "nd": "ND16–ND32 only for fixed shutter",
+  "uses": [
+    "Skiing",
+    "Snowboarding",
+    "Winter travel"
+  ],
+  "pros": [
+    "Bright conditions keep ISO low"
+  ],
+  "cons": [
+    "Meter tends to underexpose snow"
+  ],
+  "mistakes": [
+    "Using negative EV by habit",
+    "Bringing a frozen camera directly into humid air"
+  ],
+  "tips": [
+    "Increase EV only until snow is white without clipping texture"
+  ]
+}

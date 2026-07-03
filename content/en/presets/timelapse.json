@@ -1,0 +1,35 @@
+{
+  "slug": "timelapse",
+  "type": "preset",
+  "title": "TimeLapse",
+  "resolution": "4K",
+  "fps": "25/30 fps output",
+  "aspect": "16:9",
+  "color": "Normal",
+  "iso": "100–400",
+  "wb": "Locked",
+  "shutter": "Auto or manual based on interval",
+  "ev": "0",
+  "stabilization": "Not supported",
+  "fov": "Standard/Natural Wide",
+  "nd": "Optional for long-exposure motion blur",
+  "uses": [
+    "Clouds",
+    "Construction",
+    "Sunrise"
+  ],
+  "pros": [
+    "Intervals from 0.5 s to 60 min",
+    "Original photos can be retained"
+  ],
+  "cons": [
+    "Requires stable mounting"
+  ],
+  "mistakes": [
+    "Handholding",
+    "Auto WB shifts"
+  ],
+  "tips": [
+    "Choose interval by subject speed; use external power for multi-hour sequences"
+  ]
+}

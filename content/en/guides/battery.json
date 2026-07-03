@@ -1,0 +1,33 @@
+{
+  "slug": "battery",
+  "type": "guide",
+  "title": "Battery guide",
+  "summary": "The 1950 mAh battery is rated up to 240 minutes only under DJI laboratory conditions.",
+  "table": [
+    [
+      "Condition",
+      "Official reference"
+    ],
+    [
+      "Room temperature test",
+      "1080p/24, RockSteady, Wi-Fi off, screens off"
+    ],
+    [
+      "Cold test at -20°C",
+      "Up to 167 minutes"
+    ],
+    [
+      "Operating range",
+      "-20°C to 45°C"
+    ],
+    [
+      "Charging range",
+      "5°C to 40°C"
+    ],
+    [
+      "Fast charge input",
+      "USB-C PD 3.0, 30 W or above"
+    ]
+  ],
+  "warning": "4K/8K, high frame rates, bright screens, wireless radios and cold weather reduce runtime."
+}

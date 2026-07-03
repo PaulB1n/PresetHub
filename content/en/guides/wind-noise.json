@@ -1,0 +1,28 @@
+{
+  "slug": "wind-noise",
+  "type": "guide",
+  "title": "Wind noise reduction",
+  "summary": "Use wind reduction for exposed movement, but treat it as a rescue tool—not a replacement for physical wind protection.",
+  "table": [
+    [
+      "Scenario",
+      "Recommendation"
+    ],
+    [
+      "Walking in light air",
+      "Internal mics; compare reduction On/Off"
+    ],
+    [
+      "Cycling / motorcycle",
+      "External protected mic or transmitter backup"
+    ],
+    [
+      "Indoor voice",
+      "Reduction Off unless HVAC rumble is present"
+    ],
+    [
+      "After water use",
+      "Let mic membranes drain and dry before judging audio"
+    ]
+  ]
+}

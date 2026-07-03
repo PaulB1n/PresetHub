@@ -1,0 +1,11 @@
+{
+  "slug": "rocksteady",
+  "type": "guide",
+  "title": "RockSteady 3.0",
+  "summary": "General-purpose EIS that crops frame edges and aligns successive frames.",
+  "tips": [
+    "Use for walking, mounted POV and most handheld action.",
+    "Give EIS sharp frames: adequate light and sufficiently fast shutter."
+  ],
+  "warning": "DJI states EIS works by analyzing frames and cropping edges. It is unavailable in dedicated Slow Motion and TimeLapse modes."
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "youtube",
+  "type": "preset",
+  "title": "YouTube",
+  "resolution": "4K",
+  "fps": "30 fps; 60 fps for action channels",
+  "aspect": "16:9",
+  "color": "D-Log M for graded work; Normal for fast upload",
+  "iso": "100–800 day; 1600 ceiling indoors",
+  "wb": "Locked per scene",
+  "shutter": "Action-safe Auto; controlled 1/60 at 30 fps",
+  "stabilization": "RockSteady",
+  "fov": "Standard/Natural Wide",
+  "nd": "Conditional",
+  "uses": [
+    "Long-form",
+    "Vlogs",
+    "POV channels"
+  ],
+  "pros": [
+    "4K survives platform compression better than 1080p"
+  ],
+  "cons": [
+    "D-Log M adds grading and export time"
+  ],
+  "mistakes": [
+    "Uploading low-resolution proxy files",
+    "Oversharpening before YouTube compression"
+  ],
+  "tips": [
+    "Verify the uploaded file dimensions; 4K processing can take time after upload"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "car",
+  "type": "preset",
+  "title": "Авто",
+  "fps": "30 or 60 fps",
+  "color": "D-Log M 10-bit",
+  "iso": "100–800",
+  "wb": "Locked",
+  "shutter": "1/120–1/240 for exterior mounts; 1/60 controlled interior",
+  "stabilization": "RockSteady or HorizonBalancing",
+  "fov": "Standard exterior; Natural Wide interior",
+  "nd": "ND8–ND32 for fixed-shutter exterior",
+  "uses": [
+    "Dash mount",
+    "Cabin",
+    "Rolling shots"
+  ],
+  "pros": [
+    "Repeatable mounted perspective"
+  ],
+  "cons": [
+    "Windshield reflections and vibration"
+  ],
+  "mistakes": [
+    "Mounting behind a dirty windshield",
+    "Using HorizonSteady when vehicle banking should remain visible"
+  ],
+  "tips": [
+    "Use a polarizer only after testing for uneven sky and windshield patterns"
+  ]
+}

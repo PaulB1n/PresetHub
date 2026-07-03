@@ -1,0 +1,30 @@
+{
+  "slug": "golden-hour",
+  "type": "preset",
+  "title": "Golden Hour",
+  "fps": "24/25 or 30 fps",
+  "color": "D-Log M 10-bit",
+  "iso": "100–400",
+  "wb": "5200–6000 K, locked",
+  "shutter": "1/50–1/60 controlled; Auto for action",
+  "ev": "-0.3",
+  "nd": "ND8–ND16 if locking shutter",
+  "uses": [
+    "Portraits",
+    "Travel",
+    "Cinematic B-roll"
+  ],
+  "pros": [
+    "Warm directional light",
+    "Low ISO possible"
+  ],
+  "cons": [
+    "Short useful window"
+  ],
+  "mistakes": [
+    "Auto WB neutralizing the warm color"
+  ],
+  "tips": [
+    "Lock WB and exposure before the take"
+  ]
+}

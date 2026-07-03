@@ -1,0 +1,10 @@
+{
+  "slug": "horizon-steady",
+  "type": "guide",
+  "title": "HorizonSteady",
+  "summary": "Locks the horizon through full 360-degree camera rotation.",
+  "tips": [
+    "Use for skiing, karting and mounts where camera roll is unwanted."
+  ],
+  "warning": "The locked horizon can remove intentional banking. Supported modes are limited to 60 fps or below."
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "sd-cards",
+  "type": "guide",
+  "title": "microSD card guide",
+  "summary": "Action 6 supports microSD cards up to 1 TB and records to exFAT.",
+  "table": [
+    [
+      "DJI-listed family",
+      "Classes",
+      "Capacities"
+    ],
+    [
+      "Lexar Professional SILVER PLUS",
+      "U3 / A2 / V30",
+      "64 GB–1 TB"
+    ],
+    [
+      "Kingston CANVAS Go! Plus",
+      "U3 / A2 / V30",
+      "64 GB–1 TB"
+    ]
+  ],
+  "check": [
+    "Buy from a reputable seller",
+    "Format in-camera",
+    "Test a full high-bitrate clip",
+    "Keep 10–15% free space",
+    "Back up before formatting"
+  ]
+}

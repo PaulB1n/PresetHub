@@ -1,0 +1,15 @@
+{
+  "slug": "d-log-m",
+  "type": "guide",
+  "title": "D-Log M workflow",
+  "summary": "A 10-bit low-contrast profile designed for grading and wider highlight/shadow flexibility.",
+  "check": [
+    "Lock white balance for matched clips",
+    "Expose without clipping important highlights",
+    "Record high bitrate",
+    "Apply DJI conversion LUT or a managed transform",
+    "Correct exposure and WB before creative grading",
+    "Export 10-bit through the grading pipeline where possible"
+  ],
+  "warning": "D-Log M is not a finished look and is not itself a LUT. Underexposed log footage becomes noisy when lifted."
+}

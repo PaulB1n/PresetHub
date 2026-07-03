@@ -1,0 +1,33 @@
+{
+  "slug": "motorcycle",
+  "type": "preset",
+  "title": "Motorcycle",
+  "fps": "60 fps",
+  "color": "D-Log M 10-bit",
+  "iso": "100–800 day; up to 1600 dusk",
+  "wb": "5200–6000 K, locked",
+  "shutter": "1/200–1/500 action-safe",
+  "ev": "-0.3",
+  "stabilization": "RockSteady 3.0",
+  "fov": "Natural Wide",
+  "nd": "None for helmet POV; optional ND on smooth mounted shots",
+  "uses": [
+    "Helmet POV",
+    "Road rides",
+    "Track sessions"
+  ],
+  "pros": [
+    "Sharp road detail",
+    "Stable under vibration"
+  ],
+  "cons": [
+    "Wind and engine vibration challenge audio"
+  ],
+  "mistakes": [
+    "Loose tether",
+    "Slow shutter with engine vibration"
+  ],
+  "tips": [
+    "Use a safety tether and external mic inside the helmet for voice"
+  ]
+}

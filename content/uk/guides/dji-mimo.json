@@ -1,0 +1,32 @@
+{
+  "slug": "dji-mimo",
+  "type": "guide",
+  "title": "DJI Mimo guide",
+  "summary": "Use Mimo for activation, firmware, remote control, transfer, editing and compatible post-capture features.",
+  "table": [
+    [
+      "Task",
+      "Best route"
+    ],
+    [
+      "Firmware / activation",
+      "DJI Mimo"
+    ],
+    [
+      "Quick phone transfer",
+      "Mimo over Wi-Fi"
+    ],
+    [
+      "Large 4K/8K transfer",
+      "Card reader or USB-C"
+    ],
+    [
+      "8K phone editing",
+      "Officially iPhone 15 Pro series or later at time of source update"
+    ],
+    [
+      "Invisible selfie stick",
+      "Process supported footage in Mimo"
+    ]
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "indoor",
+  "type": "preset",
+  "title": "Indoor",
+  "fps": "25/30 fps",
+  "color": "Normal 10-bit or D-Log M",
+  "iso": "100–1600",
+  "wb": "3200 K tungsten; 4000–4500 K mixed LED; lock it",
+  "shutter": "1/50 in 50 Hz regions; 1/60 in 60 Hz regions",
+  "ev": "0 to -0.3",
+  "stabilization": "RockSteady or Off on tripod",
+  "nd": "None",
+  "uses": [
+    "Home video",
+    "Events",
+    "Studio"
+  ],
+  "pros": [
+    "Variable f/2 aperture helps available light"
+  ],
+  "cons": [
+    "LED flicker and mixed WB are common"
+  ],
+  "mistakes": [
+    "Using 60 fps in a dim room",
+    "Ignoring local anti-flicker frequency"
+  ],
+  "tips": [
+    "Test LEDs at the intended shutter before the event"
+  ]
+}

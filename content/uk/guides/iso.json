@@ -1,0 +1,38 @@
+{
+  "slug": "iso",
+  "type": "guide",
+  "title": "ISO guide",
+  "summary": "ISO brightens the signal; it does not create light. Keep the ceiling low enough for detail, high enough to avoid unusable blur.",
+  "table": [
+    [
+      "Scene",
+      "Starting range",
+      "Notes"
+    ],
+    [
+      "Bright exterior",
+      "100–400",
+      "Cleanest detail"
+    ],
+    [
+      "Cloudy / forest",
+      "100–800",
+      "Watch shadow noise"
+    ],
+    [
+      "Indoor / dusk",
+      "100–1600",
+      "A practical starting ceiling"
+    ],
+    [
+      "Night",
+      "100–1600, then test higher",
+      "SuperNight can use a different processing approach"
+    ],
+    [
+      "Official maximum",
+      "25600 standard / 51200 SuperNight",
+      "Maximum is not a quality recommendation"
+    ]
+  ]
+}

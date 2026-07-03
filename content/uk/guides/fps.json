@@ -1,0 +1,38 @@
+{
+  "slug": "fps",
+  "type": "guide",
+  "title": "Frame rate guide",
+  "summary": "Use the lowest frame rate that captures the motion and delivery you actually need.",
+  "table": [
+    [
+      "FPS",
+      "Use",
+      "Trade-off"
+    ],
+    [
+      "24/25",
+      "Narrative, low light",
+      "More motion judder during fast pans"
+    ],
+    [
+      "30",
+      "General video, social, travel",
+      "No clean 50% slow motion on 30 fps timeline"
+    ],
+    [
+      "50/60",
+      "Action, half-speed option",
+      "Needs more light and storage"
+    ],
+    [
+      "100/120",
+      "4× slow motion",
+      "No dedicated-mode EIS; strong light needed"
+    ],
+    [
+      "200/240",
+      "8× at 1080p",
+      "1080p only; very light-hungry"
+    ]
+  ]
+}

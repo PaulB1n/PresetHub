@@ -1,0 +1,10 @@
+{
+  "slug": "horizon-balancing",
+  "type": "guide",
+  "title": "HorizonBalancing",
+  "summary": "Corrects roll while retaining more natural camera movement than full 360-degree horizon lock.",
+  "tips": [
+    "Good for walking, cycling and travel where moderate banking occurs."
+  ],
+  "warning": "Officially supported up to 60 fps in 1080p, 2.7K/4K 16:9 and 4K Custom."
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "rocksteady-plus",
+  "type": "guide",
+  "title": "RockSteady 3.0+",
+  "summary": "More aggressive stabilization with a tighter crop. Reserve it for severe shake.",
+  "table": [
+    [
+      "Use RockSteady",
+      "Use RockSteady+"
+    ],
+    [
+      "Normal walking",
+      "Running"
+    ],
+    [
+      "Vehicle on smooth mount",
+      "High-impact movement"
+    ],
+    [
+      "Need wider FOV",
+      "Can accept stronger crop"
+    ]
+  ]
+}

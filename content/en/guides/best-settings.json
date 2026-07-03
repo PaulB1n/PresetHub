@@ -1,0 +1,48 @@
+{
+  "slug": "best-settings",
+  "type": "guide",
+  "title": "Best settings baseline",
+  "summary": "A dependable starting point for Action 6. Change only what the scene requires.",
+  "table": [
+    [
+      "Setting",
+      "Default",
+      "Change when"
+    ],
+    [
+      "Resolution",
+      "4K",
+      "8K for crop/detail; 4K Custom for multi-platform reframing"
+    ],
+    [
+      "Frame rate",
+      "30 fps",
+      "60 fps for action or half-speed; 120/240 only for slow motion"
+    ],
+    [
+      "Color",
+      "Normal 10-bit",
+      "D-Log M when you will color grade"
+    ],
+    [
+      "ISO limit",
+      "800 daylight / 1600 indoor",
+      "Raise only when blur is worse than noise"
+    ],
+    [
+      "Shutter",
+      "Auto",
+      "Use ~1/200 for rough EIS action; 180° only for controlled motion"
+    ],
+    [
+      "Stabilization",
+      "RockSteady 3.0",
+      "Horizon modes for roll; Off on tripod or external workflow"
+    ]
+  ],
+  "tips": [
+    "High bitrate is the sensible default when storage is available.",
+    "Use f/2.0 for low light; use a smaller aperture when you need closer focus or starburst rendering."
+  ],
+  "warning": "There is no universal best setting. Light level, mount vibration, delivery format and grading workflow change the answer."
+}

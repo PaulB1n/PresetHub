@@ -1,0 +1,37 @@
+{
+  "slug": "fpv",
+  "type": "preset",
+  "title": "FPV Drone",
+  "fps": "60 fps",
+  "aspect": "4:3 or 4K Custom",
+  "color": "D-Log M 10-bit",
+  "iso": "100–400 day; max 800",
+  "wb": "Locked",
+  "shutter": "1/120 cinematic; 1/200–1/500 for stabilization/reframing",
+  "ev": "-0.3",
+  "sharpness": "-2 to -1",
+  "nr": "-2 to -1",
+  "stabilization": "Off for Gyroflow workflow; RockSteady for ready-to-use",
+  "fov": "Wide",
+  "nd": "ND8–ND32 for 1/120 only",
+  "uses": [
+    "Freestyle",
+    "Cinematic FPV",
+    "Long-range cruising"
+  ],
+  "pros": [
+    "4K Custom gives reframing room",
+    "D-Log M matches DJI drone footage"
+  ],
+  "cons": [
+    "EIS crops; external stabilization adds workflow"
+  ],
+  "mistakes": [
+    "Double stabilization",
+    "High ISO under an ND",
+    "Unsecured camera mount"
+  ],
+  "tips": [
+    "Choose one pipeline: in-camera RockSteady, or stabilization off with external gyro workflow if supported by your editor."
+  ]
+}

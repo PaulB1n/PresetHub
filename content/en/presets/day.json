@@ -1,0 +1,35 @@
+{
+  "slug": "day",
+  "type": "preset",
+  "title": "Daylight",
+  "resolution": "4K",
+  "fps": "30 or 60 fps",
+  "aspect": "4:3 or 4K Custom",
+  "color": "D-Log M 10-bit",
+  "iso": "100–400",
+  "wb": "5200–5600 K, locked",
+  "shutter": "Auto action-safe; 1/60 at 30 fps only for controlled movement",
+  "stabilization": "RockSteady 3.0",
+  "fov": "Natural Wide",
+  "nd": "ND8–ND32 only for fixed shutter",
+  "uses": [
+    "Travel",
+    "Street",
+    "POV sports"
+  ],
+  "pros": [
+    "Clean low-ISO image",
+    "Maximum grading latitude"
+  ],
+  "cons": [
+    "D-Log M requires grading",
+    "ND can reduce EIS reliability"
+  ],
+  "mistakes": [
+    "Clipping clouds",
+    "Leaving WB on Auto across an edit"
+  ],
+  "tips": [
+    "Use 4K Custom when one clip must feed horizontal and vertical edits"
+  ]
+}

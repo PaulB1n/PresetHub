@@ -1,0 +1,37 @@
+{
+  "slug": "underwater",
+  "type": "preset",
+  "title": "Під водою",
+  "fps": "30 or 60 fps",
+  "color": "Normal 10-bit for direct use; D-Log M for grading",
+  "iso": "100–800; up to 1600 when genuinely needed",
+  "wb": "Auto shallow; custom/locked with video light at depth",
+  "shutter": "Auto",
+  "ev": "-0.7 to 0 depending water brightness",
+  "sharpness": "-1",
+  "nr": "-1",
+  "stabilization": "RockSteady",
+  "fov": "Wide",
+  "nd": "None",
+  "uses": [
+    "Snorkeling",
+    "Diving to 20 m bare / 60 m in case",
+    "Swimming"
+  ],
+  "pros": [
+    "20 m rated without case",
+    "Good wide coverage"
+  ],
+  "cons": [
+    "Red light is lost with depth",
+    "Particles create backscatter"
+  ],
+  "mistakes": [
+    "Using ND underwater",
+    "Opening doors before fully dry",
+    "Using in hot springs or corrosive liquids"
+  ],
+  "tips": [
+    "DJI recommends the waterproof case for long sessions or high water-impact pressure. Limit ISO before adding aggressive denoise."
+  ]
+}

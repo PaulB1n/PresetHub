@@ -1,0 +1,39 @@
+{
+  "slug": "night",
+  "type": "preset",
+  "title": "Ніч",
+  "resolution": "4K",
+  "fps": "24/25/30 fps",
+  "aspect": "16:9",
+  "color": "Normal in SuperNight; D-Log M for manual grading",
+  "iso": "100–1600 starting limit; raise only when required",
+  "wb": "3200–4500 K or Auto under mixed city light",
+  "shutter": "SuperNight Auto; 1/50–1/100 manual depending motion",
+  "ev": "0 to -0.7",
+  "sharpness": "-1",
+  "nr": "0 in SuperNight; -2 for manual denoise workflow",
+  "stabilization": "RockSteady; Off on tripod/gimbal",
+  "fov": "Standard or Natural Wide",
+  "nd": "None",
+  "uses": [
+    "Urban night",
+    "Static scenes",
+    "Illuminated streets"
+  ],
+  "pros": [
+    "SuperNight is fast and usable",
+    "Manual D-Log M preserves control"
+  ],
+  "cons": [
+    "SuperNight can look processed",
+    "High ISO loses fine texture"
+  ],
+  "mistakes": [
+    "Using an ND filter",
+    "Expecting clean footage in near darkness",
+    "Fast pans with slow shutter"
+  ],
+  "tips": [
+    "Option A: SuperNight for delivery speed. Option B: standard video, faster shutter and external denoise for control."
+  ]
+}

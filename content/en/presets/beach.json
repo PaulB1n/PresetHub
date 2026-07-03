@@ -1,0 +1,33 @@
+{
+  "slug": "beach",
+  "type": "preset",
+  "title": "Beach",
+  "fps": "30 or 60 fps",
+  "color": "D-Log M 10-bit",
+  "iso": "100–400",
+  "wb": "5200–6000 K, locked",
+  "shutter": "Auto; fixed only with ND",
+  "ev": "-0.3",
+  "stabilization": "RockSteady",
+  "fov": "Natural Wide",
+  "nd": "ND16–ND32 for fixed shutter",
+  "uses": [
+    "Water sports",
+    "Travel",
+    "Family"
+  ],
+  "pros": [
+    "Abundant light",
+    "Strong color separation"
+  ],
+  "cons": [
+    "Salt and sand damage seals and lens surfaces"
+  ],
+  "mistakes": [
+    "Opening battery door while wet",
+    "Wiping sand across the lens"
+  ],
+  "tips": [
+    "Rinse with fresh water after salt exposure and dry before opening doors"
+  ]
+}

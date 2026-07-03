@@ -1,0 +1,24 @@
+{
+  "slug": "normal-color",
+  "type": "guide",
+  "title": "Normal color profile",
+  "summary": "Use Normal for fast delivery, predictable previews and minimal grading.",
+  "table": [
+    [
+      "Choose Normal when",
+      "Choose D-Log M when"
+    ],
+    [
+      "Publishing directly from phone",
+      "Matching multiple cameras"
+    ],
+    [
+      "Mixed casual clips",
+      "Recovering difficult highlights"
+    ],
+    [
+      "You do not grade 10-bit footage",
+      "Applying a controlled color workflow"
+    ]
+  ]
+}

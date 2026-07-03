@@ -1,0 +1,312 @@
+[
+  {
+    "title": "Почати тут",
+    "items": [
+      {
+        "slug": "best-settings",
+        "label": "Найкращі налаштування",
+        "type": "guide"
+      },
+      {
+        "slug": "presets",
+        "label": "Бібліотека пресетів",
+        "type": "guide"
+      },
+      {
+        "slug": "getting-started",
+        "label": "Перші кроки",
+        "type": "guide"
+      },
+      {
+        "slug": "exposure",
+        "label": "Експозиція",
+        "type": "guide"
+      }
+    ]
+  },
+  {
+    "title": "Параметри зображення",
+    "items": [
+      {
+        "slug": "resolution",
+        "label": "Роздільність",
+        "type": "guide"
+      },
+      {
+        "slug": "fps",
+        "label": "Частота кадрів",
+        "type": "guide"
+      },
+      {
+        "slug": "iso",
+        "label": "ISO",
+        "type": "guide"
+      },
+      {
+        "slug": "shutter",
+        "label": "Витримка",
+        "type": "guide"
+      },
+      {
+        "slug": "white-balance",
+        "label": "Баланс білого",
+        "type": "guide"
+      },
+      {
+        "slug": "d-log-m",
+        "label": "D-Log M",
+        "type": "guide"
+      },
+      {
+        "slug": "normal-color",
+        "label": "Normal color",
+        "type": "guide"
+      },
+      {
+        "slug": "bitrate",
+        "label": "Бітрейт",
+        "type": "guide"
+      },
+      {
+        "slug": "sharpness",
+        "label": "Різкість / текстура",
+        "type": "guide"
+      },
+      {
+        "slug": "noise-reduction",
+        "label": "Шумозаглушення",
+        "type": "guide"
+      },
+      {
+        "slug": "dewarp",
+        "label": "Dewarp і FOV",
+        "type": "guide"
+      }
+    ]
+  },
+  {
+    "title": "Стабілізація",
+    "items": [
+      {
+        "slug": "rocksteady",
+        "label": "RockSteady 3.0",
+        "type": "guide"
+      },
+      {
+        "slug": "rocksteady-plus",
+        "label": "RockSteady 3.0+",
+        "type": "guide"
+      },
+      {
+        "slug": "horizon-balancing",
+        "label": "HorizonBalancing",
+        "type": "guide"
+      },
+      {
+        "slug": "horizon-steady",
+        "label": "HorizonSteady",
+        "type": "guide"
+      },
+      {
+        "slug": "field-of-view",
+        "label": "Кут огляду",
+        "type": "guide"
+      }
+    ]
+  },
+  {
+    "title": "Аудіо та носії",
+    "items": [
+      {
+        "slug": "audio",
+        "label": "Аудіо",
+        "type": "guide"
+      },
+      {
+        "slug": "wind-noise",
+        "label": "Зменшення шуму вітру",
+        "type": "guide"
+      },
+      {
+        "slug": "nd-filters",
+        "label": "ND-фільтри",
+        "type": "guide"
+      },
+      {
+        "slug": "sd-cards",
+        "label": "microSD-карти",
+        "type": "guide"
+      },
+      {
+        "slug": "battery",
+        "label": "Акумулятор",
+        "type": "guide"
+      }
+    ]
+  },
+  {
+    "title": "Камера й підтримка",
+    "items": [
+      {
+        "slug": "firmware",
+        "label": "Прошивка",
+        "type": "guide"
+      },
+      {
+        "slug": "dji-mimo",
+        "label": "DJI Mimo",
+        "type": "guide"
+      },
+      {
+        "slug": "accessories",
+        "label": "Аксесуари",
+        "type": "guide"
+      },
+      {
+        "slug": "troubleshooting",
+        "label": "Діагностика",
+        "type": "guide"
+      },
+      {
+        "slug": "faq",
+        "label": "FAQ",
+        "type": "guide"
+      },
+      {
+        "slug": "sources",
+        "label": "Джерела й методологія",
+        "type": "guide"
+      }
+    ]
+  },
+  {
+    "title": "Пресети зйомки",
+    "items": [
+      {
+        "slug": "day",
+        "label": "День",
+        "type": "preset"
+      },
+      {
+        "slug": "cloudy",
+        "label": "Хмарно",
+        "type": "preset"
+      },
+      {
+        "slug": "sunset",
+        "label": "Захід сонця",
+        "type": "preset"
+      },
+      {
+        "slug": "golden-hour",
+        "label": "Золота година",
+        "type": "preset"
+      },
+      {
+        "slug": "night",
+        "label": "Ніч",
+        "type": "preset"
+      },
+      {
+        "slug": "indoor",
+        "label": "У приміщенні",
+        "type": "preset"
+      },
+      {
+        "slug": "vlog",
+        "label": "Влог",
+        "type": "preset"
+      },
+      {
+        "slug": "walking",
+        "label": "Ходьба",
+        "type": "preset"
+      },
+      {
+        "slug": "running",
+        "label": "Біг",
+        "type": "preset"
+      },
+      {
+        "slug": "cycling",
+        "label": "Велосипед",
+        "type": "preset"
+      },
+      {
+        "slug": "motorcycle",
+        "label": "Мотоцикл",
+        "type": "preset"
+      },
+      {
+        "slug": "car",
+        "label": "Авто",
+        "type": "preset"
+      },
+      {
+        "slug": "fpv",
+        "label": "FPV-дрон",
+        "type": "preset"
+      },
+      {
+        "slug": "travel",
+        "label": "Подорожі",
+        "type": "preset"
+      },
+      {
+        "slug": "hiking",
+        "label": "Похід",
+        "type": "preset"
+      },
+      {
+        "slug": "snow",
+        "label": "Сніг",
+        "type": "preset"
+      },
+      {
+        "slug": "beach",
+        "label": "Пляж",
+        "type": "preset"
+      },
+      {
+        "slug": "rain",
+        "label": "Дощ",
+        "type": "preset"
+      },
+      {
+        "slug": "underwater",
+        "label": "Під водою",
+        "type": "preset"
+      },
+      {
+        "slug": "timelapse",
+        "label": "TimeLapse",
+        "type": "preset"
+      },
+      {
+        "slug": "hyperlapse",
+        "label": "HyperLapse",
+        "type": "preset"
+      },
+      {
+        "slug": "slow-motion",
+        "label": "Slow motion",
+        "type": "preset"
+      },
+      {
+        "slug": "youtube",
+        "label": "YouTube",
+        "type": "preset"
+      },
+      {
+        "slug": "instagram",
+        "label": "Instagram",
+        "type": "preset"
+      },
+      {
+        "slug": "tiktok",
+        "label": "TikTok",
+        "type": "preset"
+      }
+    ]
+  }
+]

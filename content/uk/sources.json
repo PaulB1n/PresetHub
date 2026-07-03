@@ -1,0 +1,27 @@
+{
+  "specs": {
+    "name": "DJI — Osmo Action 6 specifications",
+    "url": "https://www.dji.com/osmo-action-6/specs",
+    "note": "Resolutions, frame rates, ISO limits, storage, audio, battery and stabilization compatibility."
+  },
+  "faq": {
+    "name": "DJI — Osmo Action 6 FAQ",
+    "url": "https://www.dji.com/osmo-action-6/faq",
+    "note": "Mode restrictions, D-Log M, SuperNight, aperture, exports and operating guidance."
+  },
+  "manual": {
+    "name": "DJI — Osmo Action 6 User Manual v1.0",
+    "url": "https://dl.djicdn.com/downloads/DJI_Osmo_Action_6/UM/1104/DJI_Osmo_Action_6_User_Manual_v1.0_en.pdf",
+    "note": "Controls, safety, Mimo, firmware, waterproofing and camera operation."
+  },
+  "reddit": {
+    "name": "r/djiosmo — Action 6 field settings discussions",
+    "url": "https://www.reddit.com/r/djiosmo/search/?q=action%206%20settings&restrict_sr=1",
+    "note": "User reports used only for conditional field advice, never specifications."
+  },
+  "creator": {
+    "name": "Creator field tests — Action 6 shutter and EIS",
+    "url": "https://dronexl.co/2026/02/02/dji-osmo-action-6-manual-exposure-setting/",
+    "note": "Practical comparison of 180-degree shutter and faster action-safe shutter."
+  }
+}

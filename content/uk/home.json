@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "title": "PresetHub — технічна база знань для Osmo Action 6",
+    "description": "Експертні налаштування DJI Osmo Action, пресети та польові гайди українською."
+  },
+  "hero": {
+    "eyebrow": "Технічна база знань Osmo Action 6",
+    "title": "Налаштування, які працюють у полі.",
+    "summary": "Обмеження режимів із документації DJI, практичні пресети та чітко позначений досвід спільноти для Action 6.",
+    "cta": {
+      "label": "Відкрити повну документацію Action 6",
+      "href": "docs.html#best-settings"
+    },
+    "trusted": "30 гайдів · 25 пресетів · з посиланнями на джерела"
+  },
+  "scenarios": {
+    "title": "Популярні сценарії",
+    "summary": "Почни з того, що саме ти знімаєш.",
+    "link": {
+      "label": "Дивитися всі 11 →",
+      "href": "docs.html#presets"
+    },
+    "items": [
+      {
+        "title": "Денне світло",
+        "count": "5 пресетів",
+        "icon": "i-sun",
+        "href": "docs.html#day"
+      },
+      {
+        "title": "Слабке світло",
+        "count": "4 пресети",
+        "icon": "i-moon",
+        "href": "docs.html#night"
+      },
+      {
+        "title": "FPV",
+        "count": "6 пресетів",
+        "icon": "i-bolt",
+        "href": "docs.html#fpv"
+      },
+      {
+        "title": "Подорожі",
+        "count": "8 пресетів",
+        "icon": "i-camera",
+        "href": "docs.html#travel"
+      },
+      {
+        "title": "Авто",
+        "count": "5 пресетів",
+        "icon": "i-play",
+        "href": "docs.html#car"
+      },
+      {
+        "title": "Мотоцикл",
+        "count": "4 пресети",
+        "icon": "i-bolt",
+        "href": "docs.html#motorcycle"
+      },
+      {
+        "title": "Сніг",
+        "count": "3 пресети",
+        "icon": "i-mountain",
+        "href": "docs.html#snow"
+      },
+      {
+        "title": "Пляж",
+        "count": "4 пресети",
+        "icon": "i-sun",
+        "href": "docs.html#beach"
+      }
+    ]
+  },
+  "featuredPresets": {
+    "title": "Популярні пресети",
+    "summary": "Перевірені схеми, які можна швидко виставити.",
+    "link": {
+      "label": "Всі пресети →",
+      "href": "docs.html#presets"
+    },
+    "items": [
+      {
+        "slug": "fpv",
+        "featured": true,
+        "badge": "Вибір редакції",
+        "badgeTone": "green",
+        "rating": "★★★★★",
+        "score": "9.8",
+        "title": "FPV Drone — Cinematic",
+        "summary": "Природне розмиття руху, широкий динамічний діапазон і надійна стабілізація.",
+        "specs": [
+          [
+            "Роздільність",
+            "4K 4:3"
+          ],
+          [
+            "Кадри",
+            "60 FPS"
+          ],
+          [
+            "Колір",
+            "D-Log M"
+          ],
+          [
+            "ISO",
+            "100–400"
+          ],
+          [
+            "Стабілізація",
+            "RockSteady"
+          ],
+          [
+            "Фільтр",
+            "ND32"
+          ]
+        ]
+      },
+      {
+        "slug": "travel",
+        "badge": "Подорожі",
+        "rating": "★★★★★",
+        "score": "9.6",
+        "title": "Everyday Travel",
+        "summary": "Гнучке й чисте відео в мінливому світлі.",
+        "specs": [
+          [
+            "Якість",
+            "4K / 30"
+          ],
+          [
+            "Колір",
+            "Normal"
+          ],
+          [
+            "ISO",
+            "100–800"
+          ]
+        ]
+      },
+      {
+        "slug": "night",
+        "badge": "Слабке світло",
+        "rating": "★★★★☆",
+        "score": "9.2",
+        "title": "Night City",
+        "summary": "Контроль світлих ділянок із мінімальним шумом.",
+        "specs": [
+          [
+            "Якість",
+            "4K / 24"
+          ],
+          [
+            "Колір",
+            "D-Log M"
+          ],
+          [
+            "ISO",
+            "100–1600"
+          ]
+        ]
+      }
+    ]
+  },
+  "guides": {
+    "title": "Останні гайди",
+    "summary": "Зрозумій логіку налаштувань, а не просто копіюй цифри.",
+    "link": {
+      "label": "Переглянути гайди →",
+      "href": "docs.html#getting-started"
+    },
+    "filters": [
+      "all",
+      "basics",
+      "advanced"
+    ],
+    "filterLabels": {
+      "all": "Усі",
+      "basics": "База",
+      "advanced": "Просунуті"
+    },
+    "items": [
+      {
+        "title": "Правило витримки 180° на практиці",
+        "summary": "Природний рух без боротьби з камерою.",
+        "meta": "База · 8 хв",
+        "type": "basics",
+        "icon": "i-sliders",
+        "href": "docs.html#shutter"
+      },
+      {
+        "title": "Як обрати правильний ND-фільтр",
+        "summary": "Польовий гайд для різного світла.",
+        "meta": "Просунуті · 12 хв",
+        "type": "advanced",
+        "icon": "i-sun",
+        "href": "docs.html#nd-filters"
+      },
+      {
+        "title": "D-Log M від зйомки до кольору",
+        "summary": "Експозиція, трансформація та грейдинг без хаосу.",
+        "meta": "Просунуті · 10 хв",
+        "type": "advanced",
+        "icon": "i-camera",
+        "href": "docs.html#d-log-m"
+      }
+    ]
+  },
+  "saveCard": {
+    "title": "Тримай свої налаштування під рукою.",
+    "summary": "Збережи стартовий набір локально й відкривай його, коли змінюється світло.",
+    "button": "Зберегти стартовий набір",
+    "savedButton": "Збережено ✓"
+  },
+  "aside": {
+    "toc": [
+      [
+        "Огляд",
+        "#home"
+      ],
+      [
+        "Популярні сценарії",
+        "#scenarios"
+      ],
+      [
+        "Популярні пресети",
+        "#presets"
+      ],
+      [
+        "Останні гайди",
+        "#guides"
+      ]
+    ],
+    "quickPresets": [
+      {
+        "title": "FPV cinematic",
+        "summary": "4K · 60 · D-Log M",
+        "href": "docs.html#fpv"
+      },
+      {
+        "title": "Everyday travel",
+        "summary": "4K · 30 · Normal",
+        "href": "docs.html#travel"
+      },
+      {
+        "title": "Night city",
+        "summary": "4K · 24 · D-Log M",
+        "href": "docs.html#night"
+      }
+    ],
+    "related": [
+      {
+        "title": "Action 4 vs Action 5 Pro",
+        "summary": "6 хв читання",
+        "href": "#"
+      },
+      {
+        "title": "Найкращі microSD-карти у 2026",
+        "summary": "4 хв читання",
+        "href": "docs.html#sd-cards"
+      },
+      {
+        "title": "Чеклист оновлення прошивки",
+        "summary": "3 хв читання",
+        "href": "docs.html#firmware"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 PresetHub. Незалежний проєкт, не повʼязаний із DJI.",
+    "links": [
+      {
+        "label": "GitHub",
+        "href": "#"
+      },
+      {
+        "label": "Приватність",
+        "href": "#"
+      },
+      {
+        "label": "Контакт",
+        "href": "mailto:hello@osmosettings.com"
+      }
+    ]
+  },
+  "chrome": {
+    "topnav": {
+      "presets": "Пресети",
+      "guides": "Гайди",
+      "reference": "Довідник"
+    },
+    "side": {
+      "home": "Головна",
+      "library": "Бібліотека",
+      "shootingScenarios": "Сценарії зйомки",
+      "cameraSettings": "Налаштування камери",
+      "presets": "Пресети",
+      "ndFilters": "ND-фільтри",
+      "accessories": "Аксесуари",
+      "resources": "Ресурси",
+      "comparisons": "Порівняння",
+      "guides": "Гайди"
+    },
+    "device": {
+      "title": "Osmo Action 6",
+      "summary": "Окрема база знань"
+    },
+    "breadcrumbs": [
+      "Документація",
+      "Огляд"
+    ],
+    "searchPlaceholder": "Пошук у PresetHub...",
+    "searchEmpty": "Нічого не знайдено.",
+    "searchTypes": {
+      "preset": "Пресет",
+      "guide": "Гайд",
+      "scenario": "Сценарій"
+    },
+    "openPreset": "Відкрити пресет"
+  }
+}

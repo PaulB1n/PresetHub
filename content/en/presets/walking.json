@@ -1,0 +1,32 @@
+{
+  "slug": "walking",
+  "type": "preset",
+  "title": "Walking",
+  "fps": "30 or 60 fps",
+  "color": "D-Log M 10-bit",
+  "iso": "100–800",
+  "wb": "Auto for tours; lock for edited sequences",
+  "shutter": "Minimum near 1/100 for EIS clarity; 1/200 in bright light",
+  "stabilization": "HorizonBalancing or RockSteady",
+  "fov": "Natural Wide",
+  "nd": "Usually none",
+  "uses": [
+    "Walking tours",
+    "Travel POV",
+    "Follow shots"
+  ],
+  "pros": [
+    "Stable horizon",
+    "Good reframing options"
+  ],
+  "cons": [
+    "Faster shutter looks less cinematic"
+  ],
+  "mistakes": [
+    "Heel-striking gait",
+    "Using 180-degree shutter while expecting perfect EIS"
+  ],
+  "tips": [
+    "Bend knees and hold the camera away from the torso"
+  ]
+}

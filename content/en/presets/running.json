@@ -1,0 +1,32 @@
+{
+  "slug": "running",
+  "type": "preset",
+  "title": "Running",
+  "fps": "60 fps",
+  "color": "Normal 10-bit or D-Log M",
+  "iso": "100–800",
+  "wb": "Locked to conditions",
+  "shutter": "1/200 minimum starting point in daylight",
+  "stabilization": "RockSteady 3.0+",
+  "fov": "Wide/Natural Wide",
+  "nd": "None",
+  "uses": [
+    "Trail running",
+    "Training",
+    "Chase shots"
+  ],
+  "pros": [
+    "Strong shake suppression",
+    "60 fps supports half-speed playback"
+  ],
+  "cons": [
+    "RockSteady+ crops more",
+    "Needs more light"
+  ],
+  "mistakes": [
+    "Slow shutter blur starving EIS of detail"
+  ],
+  "tips": [
+    "Use a firm chest or head mount; loose mounts cannot be fixed in software"
+  ]
+}

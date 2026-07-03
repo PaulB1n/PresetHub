@@ -1,0 +1,17 @@
+{
+  "slug": "firmware",
+  "type": "guide",
+  "title": "Firmware features",
+  "summary": "Update through DJI Mimo, then verify saved custom modes before a production shoot.",
+  "check": [
+    "Charge battery above 50%",
+    "Connect camera to Mimo",
+    "Read release notes before updating",
+    "Keep app open and devices close",
+    "Restart camera",
+    "Verify resolution, stabilization and custom presets afterward"
+  ],
+  "tips": [
+    "Portrait mode requires current firmware according to DJI FAQ. Feature availability can change; confirm on-camera after updates."
+  ]
+}

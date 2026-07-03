@@ -1,0 +1,39 @@
+{
+  "slug": "resolution",
+  "type": "guide",
+  "title": "Resolution guide",
+  "summary": "Choose resolution for delivery and reframing—not because the largest number is automatically better.",
+  "table": [
+    [
+      "Mode",
+      "Best for",
+      "Important limits"
+    ],
+    [
+      "8K 16:9 up to 30 fps",
+      "Heavy crop, oversampled 4K",
+      "RockSteady/+, limited FOV; no Film Tone or Quality Priority"
+    ],
+    [
+      "4K Custom 3840×3840 up to 60 fps",
+      "Horizontal + vertical delivery",
+      "Requires reframing in post"
+    ],
+    [
+      "4K 4:3 up to 120 fps",
+      "Action and tall sensor area",
+      "Larger files"
+    ],
+    [
+      "4K 16:9 / 9:16 up to 120 fps",
+      "Direct delivery",
+      "Less reframing latitude than Custom"
+    ],
+    [
+      "1080p up to 240 fps",
+      "8× slow motion",
+      "Lower captured detail"
+    ]
+  ],
+  "warning": "8K Mimo download/edit support is officially limited to iPhone 15 Pro series and later until DJI expands support."
+}

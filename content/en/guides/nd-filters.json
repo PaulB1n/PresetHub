@@ -1,0 +1,34 @@
+{
+  "slug": "nd-filters",
+  "type": "guide",
+  "title": "ND filter guide",
+  "summary": "ND filters reduce light so a fixed slow shutter can be maintained. They are optional, not an automatic upgrade.",
+  "table": [
+    [
+      "Filter",
+      "Typical starting condition",
+      "Caution"
+    ],
+    [
+      "ND8",
+      "Overcast / golden hour",
+      "May be too dark as light changes"
+    ],
+    [
+      "ND16",
+      "Daylight",
+      "Monitor ISO"
+    ],
+    [
+      "ND32",
+      "Bright sun",
+      "Common for 1/60–1/120"
+    ],
+    [
+      "ND64",
+      "Snow, beach, very bright scenes",
+      "Can force high ISO unexpectedly"
+    ]
+  ],
+  "warning": "For rough action, many experienced users skip ND and use a faster shutter so RockSteady receives sharper frames."
+}
